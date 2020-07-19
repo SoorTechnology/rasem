@@ -2,3 +2,8 @@
 	path = joseymannanal/addons
 	url = git@github.com:joseymannanal/addons.git
 	branch = master
+
+[submodule "SoorTechnology/jt_cost_centers"]
+	path = SoorTechnology/jt_cost_centers
+	url = git@github.com:SoorTechnology/jt_cost_centers.git
+	branch = master
